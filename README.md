@@ -1,4 +1,4 @@
-# CraveDrop — Eclipse run folder
+# CraveDrop 
 
 **Eclipse project name:** `CraveDrop_FoodDeliver`  
 **Web application context:** `cravedrop`  
