@@ -1,0 +1,16 @@
+# Maven build output and packaged deployments
+target/
+dist/
+*.war
+
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Eclipse and operating-system workspace clutter
+.metadata/
+.recommenders/
+.settings/org.eclipse.core.resources.prefs
+.DS_Store
+Thumbs.db
